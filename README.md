@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**anjaligondse/anjaligondse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🙂 I'm **Anjali Gondse**
 - 👩🏾‍💻 Pronouns: She/Her
 - 🔭 I’m currently working on **Machine Learning** Projects 
@@ -17,4 +12,3 @@ Here are some ideas to get you started:
 
 - 👀 Personal interest: Traveling, Psychology and Holistic Healing / Spirituality 
 - ⚡ Fun fact: I am a Nephophile⛅, Opacarophile🌇 and Thalassophile🏄🏾‍♂️
--->
