@@ -1,6 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=anjaligondse&color=green&style=for-the-badge)
 
-- 🙂 I'm **Anjali Gondse**
+- 🙂 I'm **Anjali Gondse** 
 - 👩🏾‍💻 Pronouns: She/Her
 - 🔭 I’m currently working on **Machine Learning** Projects 
 - 🌱 I’m currently learning **Data Science** from Odin School
