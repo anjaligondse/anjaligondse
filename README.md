@@ -10,5 +10,4 @@
 - 👀 Personal interest: Traveling, Psychology and Holistic Healing / Spirituality 
 - ⚡ Fun fact: I am a Nephophile⛅, Opacarophile🌇 and Thalassophile🏄🏾‍♂️
 
-![image](https://user-images.githubusercontent.com/104161600/221010141-ab75ff60-3eb6-4d73-8145-ef18dd2b3363.png)
 ![](https://komarev.com/ghpvc/?username=anjaligondse&color=green&style=for-the-badge)
