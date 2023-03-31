@@ -20,9 +20,6 @@
  👀 I’m interested in:
  
      Data Science and Machine learning, 
-     particulary interested in Data Wrangling (Cleaning the data fascinates me), 
-     Exploratory Data Analysis (Without this how can i Live)
-     and Mostly in the field of Classical Machine Learning (For Now)
   
 - 🌱 I’m currently learning **Data Science** from Odin School
   
@@ -33,7 +30,8 @@
 - 💬 Ask me about **Python, MySQL, PySpark, ML, Data Mining, Power BI, Stats, Analytics** 
   
   <br/> 
-- 📫 How to reach me:
+ 
+ 📫 How to reach me:
      anjaligondse1996@gmal.com
   
   
