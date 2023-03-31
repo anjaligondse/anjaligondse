@@ -1,21 +1,22 @@
 ### **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px">                          
-
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&duration=2000&pause=1000&color=1BD5F7&center=true&vCenter=true&repeat=false&width=396&lines=I'm+Anjali+Gondse+%F0%9F%91%8B)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&duration=2000&pause=1000&color=1BD5F7&center=true&vCenter=true&repeat=false&width=396&lines=I'm+Anjali+Gondse+%F0%9F%91%8B)](https://git.io/typing-svg) <p align="right"> <img src="https://gifscenter.com/wp-content/uploads/2017/05/Indian%20Flag%20waving%20animation%20free%20download.gif" width="30px"/> <p>
 
 ##
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=1000&color=105B58&background=C5D07500&center=true&vCenter=true&width=1001&height=104&lines=%7C+Providing+Data-Driven+Solutions+;+for+Business+Growth+%7C;%7C+Data+Science+%7C;+Python+%7C+SQL+%7CPower+BI+%7CPySpark%7C+ETL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3001&pause=1000&color=097D7C&center=true&vCenter=true&width=1001&height=104&lines=%7CProviding+Data-Driven+Solutions;for+Business+Growth+%7C+Data+Science+%7C;+Python%7CSQL%7CPower+BI%7CPySpark%7CETL%7C;Open+for+Work%7CFull-Time%7CFreelancing)](https://git.io/typing-svg)
 
-- <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="18px" /> I'm **a data science enthusiast and passionate about using data to drive meaningful insights and solve complex problems.**
+
+<img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="18px" /> I'm **a data science enthusiast and passionate about using data to drive meaningful insights and solve complex problems.**
+
+<img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20px"/>  **Accepting Freelancing and Full Time Work** in Data Science. Contact for further info.
   
-  
-- 👩🏾‍💻 Pronouns: She/Her
+<img src="https://media.tenor.com/5WaRBVLqUGAAAAAi/discord-sticker.gif" width="20px"/> Pronouns: She/Her
   
   
 🔭 I’m currently learning and Working on:
      
-     Working on some capstone projects using python, SQL and ML.
-     Building data visualization projects using Power BI.
+     - Working on some capstone projects using python, SQL and ML.
+     - Building data visualization projects using Power BI.
                                          
  👀 I’m interested in:
  
@@ -43,6 +44,8 @@
 <a href="https://www.linkedin.com/in/anjaligondse/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="anjaligondse LinkedIn" height="50" width="120" /></a> <br>
   <br>
 </p>
+
+
   
 ### 🛠 Languages and Tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -76,8 +79,9 @@
 - ⚡ Fun fact: I am a Nephophile⛅, Opacarophile🌇 and Thalassophile🏄🏾‍♂️
 ##
 
-### ✍️ Random Data Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### 🌱<img src="https://cdn3.emoji.gg/emojis/3018_Cute_Bee.gif" width="20px"/> Random Data Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&subject=data&theme=dark)
 </p>
   
  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaligondse&theme=dark&hide_border=true"/>
