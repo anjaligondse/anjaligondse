@@ -39,18 +39,18 @@
   
   <br/> 
  
- 📫 How to reach me:
+### 📫 How to reach me:
  
     anjaligondse1996@gmail.com
   
  
-## :phone: Connect with me:
+### :phone: Connect with me:
  
 <a href="https://www.linkedin.com/in/anjaligondse/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="anjaligondse LinkedIn" height="50" width="120" /></a> <br>
   <br>
 </p>
   
-## 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/powerbi-%23121011.svg?style=for-the-badge&logo=powerbi&logoColor=yellow) 
@@ -69,10 +69,13 @@
 ![Collab](https://img.shields.io/badge/Google%20Colaboratory-%23F37626.svg?&style=for-the-badge&logo=Google-Colab&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+##
 
 <p align="left"> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
 </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/apache-spark-282323.png" alt="PySpark" width="40" height="40"/> 
-    
+ 
+ 
+##
 - 👀 Personal interest: Traveling, Psychology and Holistic Healing / Spirituality 
   
   
@@ -86,7 +89,7 @@
  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaligondse&theme=dark&hide_border=true"/>
 
 ![](https://komarev.com/ghpvc/?username=anjaligondse&color=green&style=for-the-badge)    
-  
+##  
 <p align="center">
   <img src="https://img.shields.io/github/followers/anjaligondse?label=Follow&style=social" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"> •
   <img src="https://img.shields.io/github/stars/anjaligondse?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛"> •
