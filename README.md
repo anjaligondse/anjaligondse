@@ -1,4 +1,4 @@
-### **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px">                          
+# **Hello** <img src="https://github.com/soopertramp/soopertramp/blob/main/globe-2.webp" width="40px">                          
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&duration=2000&pause=1000&color=1BD5F7&center=true&vCenter=true&repeat=false&width=396&lines=I'm+Anjali+Gondse+%F0%9F%91%8B)](https://git.io/typing-svg) <p align="right"> <img src="https://gifscenter.com/wp-content/uploads/2017/05/Indian%20Flag%20waving%20animation%20free%20download.gif" width="30px"/> <p>
 
 ##
@@ -11,7 +11,7 @@
 <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20px"/>  **Accepting Freelancing and Full Time Work** in Data Science. Contact for further info.
   
 <img src="https://media.tenor.com/5WaRBVLqUGAAAAAi/discord-sticker.gif" width="20px"/> Pronouns: She/Her
-  
+## 
   
 🔭 I’m currently learning and Working on:
      
@@ -34,12 +34,12 @@
 - 💬 Ask me about **Python, MySQL, PySpark, ML, Data Mining, Power BI, Stats, Analytics**  
 <br/> 
  
-### 📫 How to reach me:
+## 📫 How to reach me:
  
     anjaligondse1996@gmail.com
   
  
-### :phone: Connect with me:
+## :phone: Connect with me:
  
 <a href="https://www.linkedin.com/in/anjaligondse/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="anjaligondse LinkedIn" height="50" width="120" /></a> <br>
   <br>
@@ -47,7 +47,7 @@
 
 
   
-### 🛠 Languages and Tools:
+## 🛠 Languages and Tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/powerbi-%23121011.svg?style=for-the-badge&logo=powerbi&logoColor=yellow) 
@@ -79,10 +79,11 @@
 - ⚡ Fun fact: I am a Nephophile⛅, Opacarophile🌇 and Thalassophile🏄🏾‍♂️
 ##
 
-### 🌱<img src="https://cdn3.emoji.gg/emojis/3018_Cute_Bee.gif" width="20px"/> Random Data Quote
+## <p align="center">🌱<img src="https://cdn3.emoji.gg/emojis/3018_Cute_Bee.gif" width="20px"/> Random Data Quote</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&subject=data&theme=dark)
-</p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&subject=data&theme=dark"> </p>
+  
+
   
  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaligondse&theme=dark&hide_border=true"/>
 
